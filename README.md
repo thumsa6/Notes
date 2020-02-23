@@ -1,0 +1,2 @@
+# Notes
+small dashboard app
